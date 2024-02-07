@@ -5,3 +5,6 @@
 [submodule "conserveR"]
 	path = conserveR
 	url = https://github.com/azizka/conserver
+[submodule "sampbias"]
+	path = sampbias
+	url = https://github.com/azizka/sampbias
