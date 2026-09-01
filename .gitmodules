@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "biomes"]
+	path = biomes
+	url = https://github.com/azizka/biomes
 [submodule "conserveR"]
 	path = conserveR
 	url = https://github.com/azizka/conserver
